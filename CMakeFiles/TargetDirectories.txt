@@ -1,0 +1,3 @@
+/home/alisha/CLionProjects/TestGlobal/CMakeFiles/rebuild_cache.dir
+/home/alisha/CLionProjects/TestGlobal/CMakeFiles/edit_cache.dir
+/home/alisha/CLionProjects/TestGlobal/CMakeFiles/TestGL1.dir

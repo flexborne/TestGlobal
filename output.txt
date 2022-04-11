@@ -1,0 +1,6 @@
+Starting Parent process (counting period 1 Sec)
+id of the parent: 91067
+CHILD: hello
+id of the child: 91068
+0
+3
